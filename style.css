@@ -1,0 +1,14 @@
+/* @media (min-width: 1000px){
+    .navbar navbar-expand-sm {
+        background: darkslategray;
+    }
+} */
+
+@media (min-width: 576px){
+    .navbar-brand {
+        background: rgb(5, 11, 94);
+        padding: 10px
+    }
+}
+
+
