@@ -4,20 +4,49 @@
     }
 } */
 
+body {
+    background: rgb(114, 122, 124);
+}
+
+/* .box {
+    border: 3px
+} */
+
+.row {
+    background: white;
+    margin: 20px
+}
+
+.col {
+    margin: 10px
+}
+
+/* change navbar brand at small size */
 @media (min-width: 576px){
     .navbar-brand {
-        background: rgb(5, 11, 94);
+        background: rgb(114, 122, 124);
         padding: 10px;
         margin: 0px
     }
 }
 
+h2 {
+    margin: 10px
+}
+/* float text around main image */
 #tempvlat {
     position: relative;
     float: left
 }
 
-@media ()
-.image-grid {
+/* make 2x2 grid of visualizations */
+/* .img-grid {
+    flex: 50%;
+    max-width: 25%;
+    }
+} */
+
+
     
 }
+
