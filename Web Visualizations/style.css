@@ -6,6 +6,7 @@
 
 body {
     background: rgb(114, 122, 124);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 /* .box {
@@ -43,14 +44,15 @@ h2 {
     float: left
 }
 
-/* make 2x2 grid of visualizations */
-/* .img-grid {
-    flex: 50%;
-    max-width: 25%;
-    }
-} */
+.active_i {
+    margin: auto;
+    border: 1px solid red;
+    width: 48%
+}
 
-
-    
+footer {
+    color: white;
+    text-align: center;
+    background: #212529;
 }
 
